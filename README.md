@@ -16,7 +16,7 @@
 ## 自己紹介
 - 私はC＃、.netを使ったWebシステムの開発をしています。
 - アプリをswiftやkotlinで業務で使用したこともあります。
-- 現在はFast Api(Python)とVue.jsを使ったシステムも開発しています。
+- 現在はFastApi(Python)とVue.jsを使ったシステムも開発しています。
 <br>
 
 

@@ -38,9 +38,9 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=takimo1125)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=takimo1125)
 
-<!--
+
 ## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=takimon1125&theme=gruvbox)
+![trophy](https://github-profile-trophy.vercel.app/?username=takimo1125&theme=gruvbox)
 
 
 <!--

@@ -32,11 +32,11 @@
 <br>
 
 ## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takimon1125)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=takimon1125)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=takimon1125)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=takimon1125)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=takimon1125)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takimo1125)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=takimo1125)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=takimo1125)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=takimo1125)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=takimo1125)
 
 <!--
 ## Trophy

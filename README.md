@@ -37,10 +37,10 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=takimon1125)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=takimon1125)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=takimon1125)
-<!--
+
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=takimon1125&theme=gruvbox)
--->
+
 
 <!--
 This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

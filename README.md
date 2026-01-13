@@ -4,7 +4,7 @@
     <img height="20" src="https://komarev.com/ghpvc/?username=takimon1125" />
   </a>
   <a href="http://qiita.com/takimon">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/takimon1125/posts.svg" />
+    <img height="20" src="https://qiita-badge.apiapi.app/s/takimo1125/posts.svg" />
   </a>
   <a href="http://qiita.com/takimon">
     <img height="20" src="https://qiita-badge.apiapi.app/s/takimon/contributions.svg" />

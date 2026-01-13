@@ -40,7 +40,7 @@
 
 
 ## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=takimo1125&theme=gruvbox)
+![trophy](https://github-profile-trophy-mu-blond.vercel.app/?username=takimo1125&theme=gruvbox)
 
 
 <!--

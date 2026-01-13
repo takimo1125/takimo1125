@@ -1,13 +1,13 @@
 <!-- 1. GitHub usernameを変更 -->
 <p align="left">
-  <a href="https://github.com/takimon1125">
-    <img height="20" src="https://komarev.com/ghpvc/?username=takimon1125" />
+  <a href="https://github.com/takimo1125">
+    <img height="20" src="https://komarev.com/ghpvc/?username=takimo1125" />
   </a>
-  <a href="http://qiita.com/takimon">
+  <a href="http://qiita.com/takimo">
     <img height="20" src="https://qiita-badge.apiapi.app/s/takimo1125/posts.svg" />
   </a>
-  <a href="http://qiita.com/takimon">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/takimon/contributions.svg" />
+  <a href="http://qiita.com/takimo">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/takimo/contributions.svg" />
   </a>
 </p>
 
